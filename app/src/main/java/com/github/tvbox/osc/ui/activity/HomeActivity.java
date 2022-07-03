@@ -225,7 +225,7 @@ public class HomeActivity extends BaseActivity {
                             @Override
                             public void run() {
                                 if (!useCacheConfig)
-                                    Toast.makeText(HomeActivity.this, "自定义jar加载成功", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(HomeActivity.this, "思维没有边界 一切皆有可能", Toast.LENGTH_SHORT).show();
                                 initData();
                             }
                         }, 50);
